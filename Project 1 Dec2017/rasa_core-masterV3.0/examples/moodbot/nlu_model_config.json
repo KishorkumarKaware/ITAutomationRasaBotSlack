@@ -1,0 +1,6 @@
+{
+  "pipeline": "spacy_sklearn",
+  "path" : "./models",
+  "project": "nlu",
+  "data" : "C:/Users/Administrator/Documents/Jupyter Notebook/Rasa Core/rasa_core-master/examples/moodbot/models/nlu/current/training_data.json"
+}
